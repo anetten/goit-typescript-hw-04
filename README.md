@@ -8,7 +8,7 @@
 
 Встановіть правильний тип для options (клас також може бути типом для options).
 
-```ts
+````
 import React, { useEffect, useRef } from "react";
 
 // Опишіть Props
@@ -49,7 +49,6 @@ export function Observer({ children, onContentEndVisible }: Props) {
     </div>
   );
 }
-```
 
 # Завдання 2
 
@@ -118,7 +117,7 @@ export function RequestComponent() {
 }
 
 export default RequestComponent;
-```
+````
 
 # Завдання 3
 
